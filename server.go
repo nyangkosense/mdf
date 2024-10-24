@@ -48,7 +48,7 @@ func main() {
 		fmt.Println("Invalid theme. Using default theme (github-dark)")
 		selectedTheme = "github-dark"
 	}
-	fmt.Printf("Using theme: %s\n", selectedTheme) // Add this line
+	fmt.Printf("Using theme: %s\n", selectedTheme) 
 
 	http.HandleFunc("/", handleMarkdown)
 	http.HandleFunc("/view", func(w http.ResponseWriter, r *http.Request) {
