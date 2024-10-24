@@ -73,7 +73,7 @@ Options:
         Theme to use (github-dark, github-light, dracula, nord) (default "github-dark")
 ```
 
-### Examples:
+## Examples:
 
 ```
 mdf --filepath /path/to/file.md
@@ -81,11 +81,3 @@ mdf --filepath /path/to/file.md --theme dracula
 mdf --cheatsheet
 mdf --help
 ```
-
-#### media
-
--- example goes in here --
-
-
-
-## Headline
