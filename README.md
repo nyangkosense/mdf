@@ -4,6 +4,9 @@ mdf renders your written .md file in a web browser on a local server:
 ```
 http://localhost:8080/view
 ```
+![20241024_16h51m22s_grim](https://github.com/user-attachments/assets/1eacee9d-bf40-4c29-91fc-bbe5ed75a64d)
+
+
 
 ## What is this about?
 
@@ -70,7 +73,7 @@ Options:
         Theme to use (github-dark, github-light, dracula, nord) (default "github-dark")
 ```
 
-### Examples:
+## Examples:
 
 ```
 mdf --filepath /path/to/file.md
@@ -78,11 +81,3 @@ mdf --filepath /path/to/file.md --theme dracula
 mdf --cheatsheet
 mdf --help
 ```
-
-#### media
-
--- example goes in here --
-
-
-
-## Headline
