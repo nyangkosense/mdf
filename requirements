@@ -1,0 +1,18 @@
+You'll need Go installed on your system (if building from source) 
+The version should be recent enough, preferably the latest stable version.
+
+External packages:
+
+github.com/gomarkdown/markdown
+
+Standard libs used:
+
+flag
+fmt
+io/ioutil
+log
+net/http
+os
+os/exec
+runtime
+time
