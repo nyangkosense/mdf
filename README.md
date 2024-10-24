@@ -4,6 +4,9 @@ mdf renders your written .md file in a web browser on a local server:
 ```
 http://localhost:8080/view
 ```
+![20241024_16h51m22s_grim](https://github.com/user-attachments/assets/1eacee9d-bf40-4c29-91fc-bbe5ed75a64d)
+
+
 
 ## What is this about?
 
